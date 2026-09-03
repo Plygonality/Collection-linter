@@ -1,0 +1,31 @@
+{
+  "format": "collection-linter",
+  "version": 1,
+  "objects": [
+    {
+      "name": "Human_Figure_Inferred",
+      "collection": "canon",
+      "dimensions": [0.45, 0.3, 1.8],
+      "location": [0, 0, 0],
+      "eye_height": 1.65
+    },
+    {
+      "name": "Airlock_Hatch_Inferred",
+      "collection": "canon",
+      "dimensions": [1.0, 1.0, 2.0],
+      "location": [0, 0, 0]
+    },
+    {
+      "name": "Deck_Floor_Inferred",
+      "collection": "canon",
+      "dimensions": [4.0, 4.0, 0.2],
+      "location": [0, 0, 0]
+    },
+    {
+      "name": "Grid_Snap_Inferred",
+      "collection": "canon",
+      "dimensions": [1.0, 1.0, 1.0],
+      "location": [0, 0, 0]
+    }
+  ]
+}
