@@ -1,0 +1,35 @@
+{
+  "format": "collection-linter",
+  "version": 1,
+  "objects": [
+    {
+      "name": "Human_Figure_Canon",
+      "collection": "canon",
+      "dimensions": [0.45, 0.3, 1.8],
+      "location": [0, 0, 0],
+      "role": "human_figure",
+      "eye_height": 1.65
+    },
+    {
+      "name": "Airlock_Hatch_Main",
+      "collection": "canon",
+      "dimensions": [1.0, 1.0, 2.0],
+      "location": [0, 0, 0],
+      "role": "airlock"
+    },
+    {
+      "name": "Deck_Floor_1",
+      "collection": "canon",
+      "dimensions": [4.0, 4.0, 0.2],
+      "location": [0, 0, 1.0],
+      "role": "deck"
+    },
+    {
+      "name": "Grid_Snap_Origin",
+      "collection": "canon",
+      "dimensions": [1.0, 1.0, 1.0],
+      "location": [0, 0, 0],
+      "role": "grid"
+    }
+  ]
+}
